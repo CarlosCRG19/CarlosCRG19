@@ -3,7 +3,7 @@
 I am a sophomore CS student currently working as a front-end engineer at [100 Ladrillos](https://100ladrillos.com/?utm_source=google-ads&utm_medium=sem&utm_campaign=search&utm_content=corporativo&gclid=Cj0KCQjw6pOTBhCTARIsAHF23fK6b4QuQb48jeQXJeMo36GOfDx8l6rMY_HHd334jcnk7qGb-w0s85QaAjA-EALw_wcB). I mainly code in JavaScript, but I have developed projects in C, C++, Python and Java. In 2021, I fell in love with the building of great software and realized that isolated technical skills are not enough, so now I'm learning more about the full development cycle: from requirements and architecture to the production code.
 
 ## Quick overview
-<details width="100%">
+<details>
 <summary>
   Techonologies I use
 </summary>
@@ -32,8 +32,8 @@ I am a sophomore CS student currently working as a front-end engineer at [100 La
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosCRG19&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" height="200px" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact" width="47%" height="200px" align="left" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosCRG19&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact" width="47%" align="left" />
 
 
 <!--
