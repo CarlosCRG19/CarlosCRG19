@@ -32,8 +32,8 @@ I am a sophomore CS student currently working as a front-end engineer at [100 La
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 </details>
 
-<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosCRG19&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="48%" height="200px" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact" width="48%" height="200px" align="left" />
+<img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosCRG19&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" height="200px" align="left" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact" width="47%" height="200px" align="left" />
 
 
 <!--
