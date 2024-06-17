@@ -1,4 +1,4 @@
-we# Hi there, I'm Carlos! 👋
+# Hi there, I'm Carlos! 👋
 
 I am a sophomore CS student currently working as a front-end engineer at [100 Ladrillos](https://100ladrillos.com). I mainly code in JavaScript, but I have developed projects in C, C++, Python and Java. In 2021, I fell in love with the building of great software and realized that isolated technical skills are not enough, so now I'm learning more about the full development cycle: from requirements and architecture to the production code.
 
