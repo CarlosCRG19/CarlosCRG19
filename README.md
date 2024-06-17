@@ -1,4 +1,4 @@
-# Hi there, I'm Carlos! 👋
+we# Hi there, I'm Carlos! 👋
 
 I am a sophomore CS student currently working as a front-end engineer at [100 Ladrillos](https://100ladrillos.com). I mainly code in JavaScript, but I have developed projects in C, C++, Python and Java. In 2021, I fell in love with the building of great software and realized that isolated technical skills are not enough, so now I'm learning more about the full development cycle: from requirements and architecture to the production code.
 
@@ -33,20 +33,4 @@ I am a sophomore CS student currently working as a front-end engineer at [100 La
 </details>
 
 <img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=CarlosCRG19&show_icons=true&line_height=27&include_all_commits=true" alt="My github stats" width="47%" align="left" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact&hide=jupyter%20notebook" width="47%" align="left" />
-
-
-<!--
-**CarlosCRG19/CarlosCRG19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosCRG19&layout=compact&hide=html,jupyter%20notebook" width="47%" align="left" />
